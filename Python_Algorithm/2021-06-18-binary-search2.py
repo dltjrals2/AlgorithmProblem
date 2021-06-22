@@ -1,6 +1,5 @@
 n, m = map(int, input().split())
-lenArr = list(map(int, input().split()))
-lenArr.sort()
+lenArr = list(map(int, input().split())
 
 # 10 15 17 19
 def binary_search(array, target, start, end):
